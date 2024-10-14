@@ -26,13 +26,13 @@ O projeto é dividido em duas partes principais: uma classe que interage com a A
  ## Exemplo de Execução 📋
 
 - Menu de Conversão:
-- 1) Dólar => Peso Argentino
-- 2) Peso Argentino => Dólar
-- 3) Dólar => Real brasileiro
-- 4) Real brasileiro => Dólar
-- 5) Dólar => Peso colombiano
-- 6) Peso colombiano => Dólar
-- 7) Sair
+- ** 1) Dólar => Peso Argentino
+- ** 2) Peso Argentino => Dólar
+- ** 3) Dólar => Real brasileiro
+- ** 4) Real brasileiro => Dólar
+- ** 5) Dólar => Peso colombiano
+- ** 6) Peso colombiano => Dólar
+- ** 7) Sair
 - Escolha uma opção válida: 1
 - Digite o valor para conversão: 100
 - 100.00 USD = 35000.00 ARS
